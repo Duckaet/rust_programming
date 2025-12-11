@@ -1,0 +1,8 @@
+[workspace]
+members = [
+    "chapter_1/hello",
+    "chapter_1/mandelbrot",
+    "chapter_2/fund_types"
+, "chapter_3/ownership"]
+
+
